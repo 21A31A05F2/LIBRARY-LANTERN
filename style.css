@@ -1,0 +1,93 @@
+#c4{
+    color:rgb(95, 136, 12);
+    padding:40px;
+    text-align: center;
+    background-color: rgb(255, 255, 208);
+    background-image: url();
+    font-size: 45px;
+    margin: 0%;
+}
+    
+#c3{
+    background-image:url("");
+    font-size: 24px;
+    background-repeat: repeat;
+    background-size:cover;
+    background-color: rgb(209, 225, 240);
+    display:center;
+}
+#c6{
+    background-color: rgb(226, 245, 200);
+}
+#c2{
+  
+    border-radius: 1px;
+    padding: 95px;
+    border-style: solid;
+    margin-bottom :1%;
+    font-size: 25px;
+}
+#c5{
+    padding:25px;
+
+}
+.center{
+    width:15%;
+    height:15%;
+    display:cover;
+
+    margin-right:120px;
+    float:left;
+    
+}
+
+.background {
+    background-image: url("pos1.jpg"); /* Replace with your image URL */
+    background-size: 500px;
+    background-position: center;
+    height: 90vh; /* Full viewport height */
+    border-style: solid;
+    align-items: top;
+    color: rgb(30, 13, 13);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.background1 {
+    background-image: url("pos2.jpg"); /* Replace with your image URL */
+    background-size: 500px;
+    background-position: center;
+    height: 90vh; /* Full viewport height */
+    border-style: solid;
+    align-items: top;
+    border-color: rgb(30, 13, 13);
+    text-align: center;
+    color: rgb(235, 235, 155);
+    font-family: Arial, sans-serif;
+    
+}
+.background2 {
+    background-image: url("pos3.jpg"); /* Replace with your image URL */
+    background-size: 500px;
+    background-position: center;
+    height: 90vh; /* Full viewport height */
+    border-style: solid;
+    align-items: top;
+    border-color: rgb(30, 13, 13);
+    text-align: center;
+    color: rgb(21, 21, 13);
+    font-family: Arial, sans-serif;
+    
+}
+h2{
+  margin-bottom:20px;
+  text-align:center;
+}
+p{
+    text-align: justify;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:30%;
+}
